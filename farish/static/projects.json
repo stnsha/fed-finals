@@ -2,7 +2,7 @@
     {
         "title": "E-Commerce Project",
         "category": "WEB APP",
-        "link": "https://farish2010.github.io/fed-project/",
+        "link": "https://anasbuildingwebsites.github.io/farish-fed-ecommerce/",
         "img": ""
     },
     {
@@ -21,13 +21,13 @@
         "title": "Windmill",
         "category": "DATA TOOL",
         "link": "https://anasbuildingwebsites.github.io/farish-fed-1511/",
-        "img": ""
+        "img": "assets/windmill.png"
     },
     {
         "title": "Navigator",
         "category": "WEB APP",
         "link": "https://anasbuildingwebsites.github.io/farish-fed-2211/",
-        "img": ""
+        "img": "assets/windmill.png"
     },
     {
         "title": "Business Card",
