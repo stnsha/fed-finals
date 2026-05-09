@@ -1,0 +1,213 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f5f6fa;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+  background: #5a60a8;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Container for alignment */
+.nav-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 15px 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Logo */
+.logo {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: white;
+}
+
+.logo span {
+  color: #ffd369;
+}
+
+/* Links */
+.nav-links a {
+  color: white;
+  margin-left: 25px;
+  text-decoration: none;
+  font-weight: 500;
+  position: relative;
+  transition: 0.3s;
+}
+
+/* Hover underline animation */
+.nav-links a::after {
+  content: '';
+  position: absolute;
+  width: 0%;
+  height: 2px;
+  bottom: -5px;
+  left: 0;
+  background-color: #ffd369;
+  transition: width 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: #ffd369;
+}
+
+.nav-links a:hover::after {
+  width: 100%;
+}
+
+.projects {
+  padding: 40px;
+}
+
+#project-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+#project-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+}
+
+/* Card Container */
+.card {
+  width: 340px;
+  background: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover Effect */
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 16px 35px rgba(0,0,0,0.12);
+}
+
+/* Image */
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Content */
+.card-content {
+  padding: 20px;
+  text-align: left;
+}
+
+/* Title */
+.card h3 {
+  font-size: 22px;
+  color: #2f3070;
+  margin-bottom: 8px;
+}
+
+/* Date */
+.card .date {
+  font-size: 14px;
+  color: #888;
+  margin-bottom: 12px;
+}
+
+/* Description */
+.card p {
+  font-size: 15px;
+  color: #444;
+  line-height: 1.6;
+}
+
+/* Button */
+.card a {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 16px;
+  background: #414292;
+  color: #fff;
+  border-radius: 25px;
+  text-decoration: none;
+  font-size: 14px;
+  transition: background 0.3s;
+}
+
+.card a:hover {
+  background: #2f3070;
+}
+
+.quotes-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+  font-family: 'Inter', sans-serif;
+}
+
+#quote-box {
+  max-width: 600px;
+  text-align: center;
+}
+
+#quote-text,
+#quote-author {
+  opacity: 0;
+  transform: translateY(10px);
+  transition: all 0.4s ease;
+}
+
+#quote-text.show,
+#quote-author.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+#quote-text {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+#quote-author {
+  font-size: 12px;
+  font-weight: bold;
+  color: #555;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.hero img {
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+
+.hero h2 {
+    color: rgba(115, 120, 174, 1);
+    text-shadow: 1px 4px 4px rgba(0, 40, 115, 0.18);
+
+}
+
+.hero p {
+    color: rgba(32, 30, 92, 1);
+    margin: 0 auto;
+}

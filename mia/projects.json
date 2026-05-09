@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Clothing Store Website",
+    "date": "2025-03-05",
+    "url": "https://miamaira.github.io/fed-projects/",
+    "img": "assets/project2.png",
+    "description": "A website i made for a clothing store. In the website you can find their best seller and information of the store."
+  },
+  {
+    "title": "Math Quiz",
+    "date": "2025-01-10",
+    "url": "https://miamaira.github.io/quiz-card/",
+    "img": "assets/project1.png",
+    "description": "A quiz that challenges your knowledge about basic math. It has its own rules that you must follow, it is fun and exciting."
+  },
+  {
+    "title": "The Galaxy Project",
+    "date": "2025-11-01",
+    "url": "https://anasbuildingwebsites.github.io/mia-fed-0111/",
+    "img": "",
+    "description": "A concept website exploring private space travel and commercial journey planning."
+  },
+  {
+    "title": "Windmill",
+    "date": "2025-11-15",
+    "url": "https://anasbuildingwebsites.github.io/mia-fed-1511/",
+    "img": "",
+    "description": "A visual animation project using CSS and JavaScript motion design."
+  },
+  {
+    "title": "Navigator",
+    "date": "2025-11-22",
+    "url": "https://anasbuildingwebsites.github.io/mia-fed-2211/",
+    "img": "",
+    "description": "A navigation-themed web project built with HTML, CSS and JavaScript."
+  },
+  {
+    "title": "Business Card",
+    "date": "2025-09-06",
+    "url": "https://anasbuildingwebsites.github.io/mia-business-card/",
+    "img": "",
+    "description": "A personal business card website showcasing contact information and design skills."
+  },
+  {
+    "title": "BitMarket",
+    "date": "2025-05-24",
+    "url": "https://miamaira.github.io/bitmarket/",
+    "img": "",
+    "description": "A digital platform where users can buy, sell, and trade cryptocurrencies such as Bitcoin."
+  },
+  {
+    "title": "M7 Project",
+    "date": "2025-06-14",
+    "url": "https://miamaira.github.io/m7-project/",
+    "img": "",
+    "description": "A web project developed as part of front-end development coursework."
+  },
+  {
+    "title": "Fantastic Party",
+    "date": "2025-03-08",
+    "url": "https://anasbuildingwebsites.github.io/mia-fantastic-party/",
+    "img": "",
+    "description": "A festive e-commerce store selling fireworks, snap clappers, and festival balloons."
+  },
+  {
+    "title": "Figma Design I",
+    "date": "2025-03-15",
+    "url": "https://www.figma.com/design/s914GIUDPzJp4Euwol3vUA/Untitled?node-id=0-1&p=f&t=cD7RkZ4k0v4ttgmE-0",
+    "img": "",
+    "description": "A UI design prototype created in Figma as part of front-end design coursework."
+  },
+  {
+    "title": "Figma Design II",
+    "date": "2025-04-05",
+    "url": "https://www.figma.com/design/D6JuIPF9D3CrPoWWjLlcjZ/Untitled?node-id=0-1&t=cJ56mfl94XCyF1Hn-1",
+    "img": "",
+    "description": "A second Figma prototype exploring layout, color theory, and component design."
+  },
+  {
+    "title": "Cats for Adoption",
+    "date": "2025-02-15",
+    "url": "https://miamaira.github.io/cats-for-adoption/index.html",
+    "img": "assets/project3.png",
+    "description": "A website about cats that are up for adoption. You can find almost every information about the cats in the website."
+  },
+  {
+    "title": "Gadget Store",
+    "date": "2025-02-15",
+    "url": "https://miamaira.github.io/gadge-store/",
+    "img": "",
+    "description": "A mobile device repair service offering screen replacement, charger repair, and reprogramming."
+  },
+  {
+    "title": "Wix Site I",
+    "date": "2024-11-09",
+    "url": "https://miamaira246.wixsite.com/my-site-1",
+    "img": "",
+    "description": "First website built on Wix, exploring basic web design and layout."
+  },
+  {
+    "title": "Wix Site II",
+    "date": "2024-11-16",
+    "url": "https://miamaira246.wixsite.com/my-site-3",
+    "img": "",
+    "description": "Second Wix site project with improved design and content structure."
+  },
+  {
+    "title": "Demo Video",
+    "date": "2024-11-16",
+    "url": "https://youtube.com/shorts/FnshefPx31g?feature=share",
+    "img": "",
+    "description": "A screen recording walkthrough demonstrating an early web project."
+  },
+  {
+    "title": "Wix Site III",
+    "date": "2024-12-14",
+    "url": "https://miamaira.wixsite.com/my-site-1",
+    "img": "",
+    "description": "Third Wix project exploring a new design direction and layout."
+  }
+]
