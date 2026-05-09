@@ -17,28 +17,28 @@
     "title": "The Galaxy Project",
     "date": "2025-11-01",
     "url": "https://anasbuildingwebsites.github.io/mia-fed-0111/",
-    "img": "galaxy.png",
+    "img": "assets/galaxy.png",
     "description": "A concept website exploring private space travel and commercial journey planning."
   },
   {
     "title": "Windmill",
     "date": "2025-11-15",
     "url": "https://anasbuildingwebsites.github.io/mia-fed-1511/",
-    "img": "windmill.png",
+    "img": "assets/windmill.png",
     "description": "A visual animation project using CSS and JavaScript motion design."
   },
   {
     "title": "Navigator",
     "date": "2025-11-22",
     "url": "https://anasbuildingwebsites.github.io/mia-fed-2211/",
-    "img": "navigator.png",
+    "img": "assets/navigator.png",
     "description": "A navigation-themed web project built with HTML, CSS and JavaScript."
   },
   {
     "title": "Business Card",
     "date": "2025-09-06",
     "url": "https://anasbuildingwebsites.github.io/mia-business-card/",
-    "img": "businesscard.png",
+    "img": "assets/businesscard.png",
     "description": "A personal business card website showcasing contact information and design skills."
   }
 ]
