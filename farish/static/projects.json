@@ -1,9 +1,9 @@
 [
     {
-        "title": "Business Card",
+        "title": "E-Commerce Project",
         "category": "WEB APP",
-        "link": "https://anasbuildingwebsites.github.io/farish-business-card/",
-        "img": "assets/business.png"
+        "link": "https://farish2010.github.io/fed-project/",
+        "img": ""
     },
     {
         "title": "Math Quiz",
@@ -16,5 +16,23 @@
         "category": "DATA TOOL",
         "link": "https://anasbuildingwebsites.github.io/farish-fed-0111/",
         "img": "assets/mars.png"
+    },
+    {
+        "title": "Windmill",
+        "category": "DATA TOOL",
+        "link": "https://anasbuildingwebsites.github.io/farish-fed-1511/",
+        "img": ""
+    },
+    {
+        "title": "Navigator",
+        "category": "WEB APP",
+        "link": "https://anasbuildingwebsites.github.io/farish-fed-2211/",
+        "img": ""
+    },
+    {
+        "title": "Business Card",
+        "category": "WEB APP",
+        "link": "https://anasbuildingwebsites.github.io/farish-business-card/",
+        "img": "assets/business.png"
     }
 ]
