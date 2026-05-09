@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portfolio Showcase</title>
+
+<!-- Import Figma Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Island+Moments&family=Montserrat:wght@400;600;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="static/style.css">
+</head>
+
+<body>
+
+<!-- STICKY HEADER -->
+<header>
+  <a href="/" class="logo">
+    <img src="assets/Logo.png" alt="Logo">
+  </a>
+  <nav class="nav-links">
+    <a href="#home" class="active">Home</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#about">About</a>
+  </nav>
+</header>
+
+<!-- HERO (PAGE 1) -->
+<section id="home" class="hero">
+  <div class="hero-box">
+      <div class="data-stack">
+          <h1>Algorithmics</h1>
+          <h2>Dare to Dream</h2>
+          <p class="date">9 May 2026</p>
+      </div>
+      <div class="teacher-speech">
+          <p>"Technology is best when it brings people together. Dream big, code hard."</p>
+          <span>~ Teacher Santi 2026</span>
+      </div>
+  </div>
+</section>
+
+<!-- SELECTOR (PAGE 2) -->
+<section class="selector" id="gallery">
+  <h1>The Portfolio: Works by our Graduates</h1>
+  <div class="track" id="track"></div>
+</section>
+
+<!-- MOCKUP (PAGE 3) -->
+<section class="mockup-section" id="about">
+  <div class="phone" id="phoneMockup">
+    <img id="mockupImage" src="" alt="Portfolio Preview">
+  </div>
+
+  <div class="info">
+    <h2 id="name"></h2>
+    <p id="desc"></p>
+    <a id="profile" href="#" class="portfolio-btn">View Portfolio</a>
+  </div>
+</section>
+
+<script src="static/script.js"></script>
+</body>
+</html>
