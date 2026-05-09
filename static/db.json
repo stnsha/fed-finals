@@ -3,24 +3,28 @@
     "name": "Mia",
     "description": "Problem solver who loves tackling complex coding challenges.",
     "image": "./assets/mia.jpg",
-    "profile": "/mia"
+    "profile": "mia/",
+    "projects": "./mia/projects.json"
   },
   {
     "name": "Farish",
     "description": "Creative thinker with a passion for pushing UI/UX design limits.",
     "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3c3ZTB1NDk0djRyMmN4aHZxdXVrZzg0ZXJla3J6NGptdjQ3b2J4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif",
-    "profile": "/farish"
+    "profile": "farish/",
+    "projects": "./farish/static/projects.json"
   },
   {
     "name": "Yegah",
     "description": "Future software engineer building meaningful and optimized apps.",
     "image": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZvdTViOGJjZWRuZzVwaWV5bXZ2YTh6YmJzaDNtN2ZtNWhweDZpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif",
-    "profile": "/Yegah"
+    "profile": "Yegah/",
+    "projects": "./Yegah/static/projects.json"
   },
   {
     "name": "Hana",
     "description": "A girl who woke up from a dream and chose to be a web developer <unfortunately/>",
     "image": "./assets/hana.jpg",
-    "profile": "/hana"
+    "profile": "hana/",
+    "projects": "./hana/projects.json"
   }
 ]
